@@ -15,5 +15,5 @@ Master thesis:
 The master's thesis deals with the optimisation of AutoML frameworks, in this case with the help of data preprocessing. 
 For this purpose, three AutoML frameworks AutoGluon, Auto-sklearn and TPOT were used to find out whether preprocessing 
 really leads to better results and whether excessive preprocessing has negative effects. It has been shown that LDA and 
-kPCA lead to poor results, while limited preprocessing leads to better results in terms of classification. In the 
-regression task, the trinings results with the original data were the best. 
+kPCA lead to poor results, while limited preprocessing leads to the best results in terms of classification. In the 
+regression task, the trainings results with the original data were the best. 
